@@ -1,0 +1,2 @@
+defmodule Kittable do
+end
